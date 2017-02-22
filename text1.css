@@ -1,0 +1,22 @@
+#header{
+	text-align: left;
+}
+
+#main{
+	text-align: center;
+}
+
+#box{
+	width: 300px;
+}
+
+body {background-color: pink;
+	/*background-image: url(QQ图片20151029124826.jpg); */
+	/*background-repeat: repeat-y;*/
+	background-repeat: no-repeat;
+	background-position: center;
+}
+h1 {color: yellow;letter-spacing: 10px}
+h1{background-color: red;background-size: 100}
+a{color: blue}
+p{color: red}
